@@ -9,3 +9,9 @@ $ npm run start
 
 (node:101940) UnhandledPromiseRejectionWarning: TypeError: fastify_plugin_1.default is not a function
 ```
+
+version:
+```sh
+$ node -v
+v12.18.3
+```
